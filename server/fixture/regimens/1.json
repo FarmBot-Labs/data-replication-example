@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "name": "destroy all weeds every day",
+  "in_use": true,
+  "device_id": 1,
+  "regimen_items": [
+    {
+      "id": 1,
+      "sequence_id": 1,
+      "regimen_id": 1,
+      "time_offset": 100
+    },
+    {
+      "id": 2,
+      "sequence_id": 1,
+      "regimen_id": 1,
+      "time_offset": 200
+    },
+    {
+      "id": 3,
+      "sequence_id": 1,
+      "regimen_id": 1,
+      "time_offset": 300
+    }
+  ]
+}
